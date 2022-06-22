@@ -22,3 +22,12 @@ The implemented components are :
 As for the shaders, I left all the ones I created. The most advanced is the ShadowShaders class with the shadow_frag and shadow_vert glsl. I have made a beginning of shadow implementation. Indeed, the directional light of the scene projects numbers in a certain area. For the moment this area is fixed, centered on the position of this light. The other lights do not cast shadows.
 
 Pictures: 
+<table>
+<tbody>
+<tr>
+<td><img src="Images/opengl1.jpg"><td>
+<td><img src="Images/opengl2.jpg"><td>
+<td><img src="Images/opengl3.jpg"><td>
+</tr>
+</tbody>
+</table>
