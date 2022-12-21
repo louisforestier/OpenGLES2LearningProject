@@ -1,6 +1,6 @@
 # OpenGLES2 Learning Project
 
-This project begun during the 3D lessons of my masters degree. 
+This project began during the 3D lessons of my first year of masters degree at Université de Poitiers. 
 It was tested with Android Studio emulator with API 30 and on mobile API 28. 
 
 Controls : You can move in the scene with virtual (invisible) joysticks.
