@@ -19,7 +19,7 @@ The implemented components are :
 - MeshRenderer which displays the mesh of the MeshFilter according to the attributes of the material
 - Light which allows to emit light
 
-As for the shaders, I left all the ones I created. The most advanced is the ShadowShaders class with the shadow_frag and shadow_vert glsl. I have made a beginning of shadow implementation. Indeed, the directional light of the scene projects numbers in a certain area. For the moment this area is fixed, centered on the position of this light. The other lights do not cast shadows.
+As for the shaders, I left all the ones I created. The most advanced is the ShadowShaders class with the shadow_frag and shadow_vert glsl. I have made a beginning of shadow implementation. Indeed, the directional light of the scene projects shadows in a certain area. For the moment this area is fixed, centered on the position of this light. The other lights do not cast shadows.
 
 Pictures: 
 <table>
